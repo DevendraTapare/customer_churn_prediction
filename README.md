@@ -27,6 +27,3 @@ The primary goal of this project is to build a predictive model to classify cust
   - matplotlib, seaborn: Data visualization
   - scikit-learn: Machine learning model development
   - XGBoost, LightGBM: Advanced gradient boosting models
-
-## Folder Structure
-
